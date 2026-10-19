@@ -37,3 +37,20 @@ io.lmms.LMMS
 org.gnome.Logs
 org.inkscape.Inkscape
 org.gnome.SoundRecorder
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.kmymoney
+org.kde.kontact
+org.kde.kalarm
+org.kde.kcalc
+org.kde.marknote
+org.kde.klevernotes
+org.kde.okular
+org.kde.marble
+org.kde.kgeography
+org.kde.gwenview
+org.kde.dolphin
+org.kde.ark
+org.kde.filelight
+io.github.flattool.Warehouse
+com.github.flxzt.rnote

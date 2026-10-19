@@ -61,3 +61,25 @@ These applications add tools suited to this setup focus. They are installed from
 15. **GNOME Sound Recorder** (org.gnome.SoundRecorder) — capture voice and field notes.
 
 Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
+
+## Fifteen further purpose-specific preinstalled applications
+
+This second batch adds another set of apps selected for this setup’s purpose. They are installed from Flathub by the setup scripts.
+
+1. **KMyMoney** (org.kde.kmymoney) — track household or small-business accounts, categories, and budgets.
+2. **Kontact** (org.kde.kontact) — organize email, calendars, contacts, and schedules in one workspace.
+3. **KAlarm** (org.kde.kalarm) — schedule reminders and recurring task alerts.
+4. **KCalc** (org.kde.kcalc) — run scientific and unit calculations for coursework or technical work.
+5. **Marknote** (org.kde.marknote) — keep structured Markdown notes and project notebooks.
+6. **KleverNotes** (org.kde.klevernotes) — capture and manage Markdown notes for projects and research.
+7. **Okular** (org.kde.okular) — read, bookmark, and annotate technical drawings, reading lists, and reference PDFs.
+8. **Marble** (org.kde.marble) — explore maps and a virtual globe for geographic context.
+9. **KGeography** (org.kde.kgeography) — practice country, capital, and map recognition.
+10. **Gwenview** (org.kde.gwenview) — review image sets and make quick crop, resize, and annotation edits.
+11. **Dolphin** (org.kde.dolphin) — organize project assets and inspect folders.
+12. **Ark** (org.kde.ark) — open and create common project archive files.
+13. **Filelight** (org.kde.filelight) — find large folders and reclaim disk space.
+14. **Warehouse** (io.github.flattool.Warehouse) — review installed Flatpaks, manage versions, and clean app data.
+15. **Rnote** (com.github.flxzt.rnote) — sketch diagrams, write by hand, and annotate pictures or documents.
+
+Game frontends do not include proprietary game data; add only games or files you are allowed to use.
