@@ -20,3 +20,20 @@ org.gnome.Papers
 org.gnome.TextEditor
 org.gnome.Boxes
 org.gnome.baobab
+
+# Fifteen additional preinstalled purpose-specific applications
+org.gnome.Shotwell
+org.kde.digikam
+com.rawtherapee.RawTherapee
+org.geogebra.GeoGebra
+org.stellarium.Stellarium
+com.github.xournalpp.xournalpp
+org.mozilla.Thunderbird
+org.gnome.Evolution
+org.librecad.librecad
+org.qelectrotech.QElectroTech
+org.musescore.MuseScore
+io.lmms.LMMS
+org.gnome.Logs
+org.inkscape.Inkscape
+org.gnome.SoundRecorder
