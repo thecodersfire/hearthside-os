@@ -54,3 +54,4 @@ org.kde.ark
 org.kde.filelight
 io.github.flattool.Warehouse
 com.github.flxzt.rnote
+org.blender.Blender
